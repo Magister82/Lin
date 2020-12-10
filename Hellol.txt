@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Hellol update ;
+
+Update Hellol new tree ;
+
+print(Измеиения)
+=======
+Hellol update ;
+Update Hellol new tree
+
+print(Измеиения)
